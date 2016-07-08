@@ -1,0 +1,21 @@
+{
+    "editor.fontFamily": "Source Code Pro",
+    "editor.fontSize": 11,
+    "editor.lineHeight": 15.0,
+    "editor.renderWhitespace": true,
+    "editor.scrollBeyondLastLine": false,
+    "editor.renderIndentGuides": true,
+    
+    "go.buildOnSave": true,
+    "go.lintOnSave": true,
+    "go.vetOnSave": true,
+    "go.buildFlags": [],
+    "go.lintFlags": [],
+    "go.vetFlags": [],
+    "go.formatOnSave": true,
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    "go.formatTool": "goreturns",
+    "go.goroot": "/usr/local/go",
+    "go.gopath": "/Users/takecy/go",
+    "go.gocodeAutoBuild": true
+}
